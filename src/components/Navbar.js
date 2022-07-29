@@ -3,7 +3,7 @@ import {Link} from 'react-router-dom'
 
 import ThemeContext from '../context/ThemeContext'
 
-import './index.css'
+import './components.css'
 
 const Navbar = () => (
   <ThemeContext.Consumer>

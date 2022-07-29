@@ -3,7 +3,7 @@ import Navbar from './Navbar'
 
 import ThemeContext from '../context/ThemeContext'
 
-import './index.css'
+import './components.css'
 
 const NotFound = () => (
   <ThemeContext.Consumer>

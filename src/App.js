@@ -4,7 +4,7 @@ import Home from './components/Home'
 import About from './components/About'
 import ThemeContext from './context/ThemeContext'
 import NotFound from './components/NotFound'
-import './App.css'
+import './index.css'
 
 class App extends Component {
   state = {isDarkTheme: false}
