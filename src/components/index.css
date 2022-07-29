@@ -1,0 +1,207 @@
+/* Write your CSS here */
+.about-home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100vw;
+  height: 100vh;
+}
+
+.about-container-light {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  flex-grow: 1;
+  width: 100%;
+}
+
+.about-image {
+  width: 100px;
+  height: 100px;
+}
+
+.about-heading-light {
+  color: #000000;
+}
+
+.about-container-dark {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  flex-grow: 1;
+  width: 100%;
+}
+
+.about-heading-dark {
+  color: white;
+}
+
+/* Write your CSS here */
+.main-home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100vw;
+  height: 100vh;
+}
+
+.home-container-light {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  flex-grow: 1;
+  width: 100%;
+}
+
+.home-image {
+  width: 100px;
+  height: 100px;
+}
+
+.home-heading-light {
+  color: #000000;
+}
+
+.home-container-dark {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  flex-grow: 1;
+  width: 100%;
+}
+
+.home-heading-dark {
+  color: white;
+}
+
+/* Write your CSS here */
+.nav-bar-container-light {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 15px;
+  background-color: white;
+  border-bottom-style: solid;
+  border-bottom-color: #dcdcdc;
+  border-bottom-width: 2px;
+  height: 60px;
+}
+
+.website-logo {
+  width: 40px;
+  height: 40px;
+}
+
+.middle-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  padding: 0px;
+}
+
+.list-item {
+  font-size: 16px;
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.link-light {
+  color: #171f46;
+  text-decoration: none;
+}
+
+.theme-button {
+  width: 40px;
+  height: 40px;
+  background-color: transparent;
+  border-style: none;
+  outline: none;
+}
+
+.theme-img {
+  width: 40px;
+  height: 40px;
+}
+
+.nav-bar-container-dark {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 15px;
+  background-color: #333333;
+  height: 60px;
+}
+
+.link-dark {
+  color: white;
+  text-decoration: none;
+}
+
+/* Write your CSS here */
+.not-found-home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100vw;
+  height: 100vh;
+}
+
+.not-found-container-light {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  flex-grow: 1;
+  width: 100%;
+}
+
+.not-found-image {
+  width: 280px;
+  height: 280px;
+}
+
+.not-found-heading-light {
+  color: #333333;
+  font-weight: normal;
+}
+
+.not-found-para-light {
+  color: #334155;
+}
+
+.not-found-container-dark {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  flex-grow: 1;
+  width: 100%;
+}
+
+.not-found-heading-dark {
+  color: white;
+  font-weight: normal;
+}
+
+.not-found-para-dark {
+  color: #dcdcdc;
+}

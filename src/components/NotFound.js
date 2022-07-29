@@ -1,7 +1,7 @@
 // Write your code here
-import Navbar from '../Navbar'
+import Navbar from './Navbar'
 
-import ThemeContext from '../../context/ThemeContext'
+import ThemeContext from '../context/ThemeContext'
 
 import './index.css'
 
