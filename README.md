@@ -78,14 +78,11 @@ The app must have the following functionalities
 Use these files to complete the implementation:
 
 - `src/App.js`
-- `src/components/Home/index.js`
-- `src/components/Home/index.css`
-- `src/components/About/index.js`
-- `src/components/About/index.css`
-- `src/components/Navbar/index.js`
-- `src/components/Navbar/index.css`
-- `src/components/NotFound/index.css`
-- `src/components/NotFound/index.js`
+- `src/index.css`
+- `src/components/Home.js`
+- `src/components/About.js`
+- `src/components/Navbar.js`
+- `src/components/NotFound.js`
 
 </details>
 
